@@ -1,0 +1,13 @@
+{
+  "name": "my-rest-api",
+  "version": "1",
+  "description": "REST API using Hapi",
+  "main": "server.js",
+  "repository": "https://github.com/adelbert-silla/hapi-rest-api.git",
+  "author": "adelbert-silla",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "hapi": "^17.*"
+  }
+}
